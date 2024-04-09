@@ -1,4 +1,35 @@
-# flutter_python_project
+
+# DATA STRUCTURE
+![image](https://hackmd.io/_uploads/BJhr2dGeR.png)
+
+# DEMO LINK
+[LINK](https://youtu.be/2D52LNq2xJI)
+
+# major code store in "pyFinal_ver2.ipynb"
+
+Flutter+python(Flask)教學:
+
+https://blog.logrocket.com/integrating-flask-flutter-apps/#initialize-flask-app-configure-database
+
+教學Github repos:
+
+
+*   Flutter https://github.com/olu-damilare/flutter-todo
+*   Python https://github.com/olu-damilare/flask-todo/blob/main/main.py
+
+****
+
+**這個code要在Flutter的root用terminal呼叫**
+
+以下為commends:
+```
+from main import db
+db.create_all()
+exit()
+```
+
+
+<!-- # flutter_python_project
 
 A new Flutter project.
 
@@ -13,4 +44,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
