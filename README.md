@@ -1,6 +1,6 @@
 
 # DATA STRUCTURE
-![image](https://hackmd.io/_uploads/BJhr2dGeR.png)
+![image](https://github.com/cwl02716/flutter_python_project/blob/main/structure.png)
 
 # DEMO LINK
 [LINK](https://youtu.be/2D52LNq2xJI)
