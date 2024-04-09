@@ -1,13 +1,13 @@
 
-# DATA STRUCTURE
+## PROJECT WORKFLOW
 ![image](https://github.com/cwl02716/flutter_python_project/blob/main/structure.png)
 
-# DEMO LINK
-[LINK](https://youtu.be/2D52LNq2xJI)
+## DEMO LINK
+[關於看完TBBT後，也想做一款DnD遊戲的那檔事](https://youtu.be/2D52LNq2xJI)
 
-# major code store in "pyFinal_ver2.ipynb"
+## major code store in "pyFinal_ver2.ipynb"
 
-Flutter+python(Flask)教學:
+### Flutter+python(Flask)教學:
 
 https://blog.logrocket.com/integrating-flask-flutter-apps/#initialize-flask-app-configure-database
 
