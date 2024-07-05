@@ -3,7 +3,7 @@
 ![image](https://github.com/cwl02716/flutter_python_project/blob/main/structure.png)
 
 ## DEMO LINK
-![image](https://github.com/cwl02716/flutter_python_project/blob/main/螢幕擷取畫面 2023-06-04 144124.png)
+![image](https://github.com/cwl02716/flutter_python_project/blob/main/demo.png)
 
 [關於看完TBBT後，也想做一款DnD遊戲的那檔事](https://youtu.be/2D52LNq2xJI)
 
